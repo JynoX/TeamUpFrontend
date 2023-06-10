@@ -1,3 +1,3 @@
 exports.config = {
-    BASE_URL: "https://teamupbackend.onrender.com",
+    BASE_URL: "http://127.0.0.1:8080",
 }
